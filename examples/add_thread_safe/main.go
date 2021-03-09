@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"sync"
 
-	"github.com/fatih/set"
+	"github.com/andtheysay/set"
 )
 
 func main() {

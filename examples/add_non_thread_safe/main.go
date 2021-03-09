@@ -4,7 +4,7 @@ import (
 	"log"
 	"strconv"
 
-	"github.com/fatih/set"
+	"github.com/andtheysay/set"
 )
 
 func main() {
