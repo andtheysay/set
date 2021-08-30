@@ -30,7 +30,7 @@ go get github.com/andtheysay/set
 Import it with:
 
 ```go
-import "githug.com/andtheysay/set"
+import "github.com/andtheysay/set"
 ```
 
 and use `set` as the package name inside the code.
